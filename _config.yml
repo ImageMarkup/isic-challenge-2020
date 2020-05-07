@@ -31,6 +31,8 @@ google_analytics: UA-68986534-6
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
+# need to use 'theme' for local dev
+# theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
