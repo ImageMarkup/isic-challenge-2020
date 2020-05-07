@@ -30,7 +30,7 @@ github_username: imagemarkup
 google_analytics: UA-68986534-6
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
