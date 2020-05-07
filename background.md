@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Background
-description: |-
+hide_footer: true
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate a sapien at luctus. Donec ornare mauris nec nisi tincidunt, a eleifend mauris viverra.
 Integer a tincidunt mi. Pellentesque vulputate, nunc quis mollis molestie, leo arcu gravida ex, ut pretium nibh nulla laoreet ligula. Pellentesque et nibh sed
 dolor imperdiet aliquam ac ac augue. Donec ac augue aliquet, elementum lacus ut, lobortis magna. Proin porttitor tempus enim, at consectetur neque rutrum vitae. 

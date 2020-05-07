@@ -2,6 +2,7 @@
 layout: page
 title: ISIC Challenge 2020
 subtitle: Skin Lesion Analysis Towards Melanoma Detection
+hide_footer: true
 ---
 
 # a heading
