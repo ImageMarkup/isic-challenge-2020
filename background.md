@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Background
 hide_footer: true
 ---
