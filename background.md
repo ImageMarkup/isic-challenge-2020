@@ -4,12 +4,4 @@ title: Background
 hide_footer: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate a sapien at luctus. Donec ornare mauris nec nisi tincidunt, a eleifend mauris viverra.
-Integer a tincidunt mi. Pellentesque vulputate, nunc quis mollis molestie, leo arcu gravida ex, ut pretium nibh nulla laoreet ligula. Pellentesque et nibh sed
-dolor imperdiet aliquam ac ac augue. Donec ac augue aliquet, elementum lacus ut, lobortis magna. Proin porttitor tempus enim, at consectetur neque rutrum vitae. 
-maxims risus eu sem dapibus, id lacinia urna lacinia. Nunc odio ipsum, accumsan vulputate egestas id, vestibulum eu tortor. Sed porta volutpat turpis, eget  
-tortor auctor quis. Aliquam malesuada justo leo, in tristique arcu tempor non. Mauris non tellus faucibus, vulputate neque sit amet, dapibus turpis. In a nisl malesuada,
-molestie mi ac, maximus elit. Ut finibus malesuada turpis vitae vulputate. Cras volutpat molestie magna, in aliquam quam imperdiet ac. Mauris suscipit tincidunt nisl eget
-mattis. Vivamus porttitor tincidunt neque, sit amet bibendum libero. Morbi congue tortor ac blandit blandit. Proin a viverra nibh. Sed sed arcu efficitur, maximus nulla id,
-iaculis sem. Etiam semper leo non dolor sodales, sit amet venenatis mi gravida. Pellentesque faucibus nisi vitae blandit bibendum. Nam laoreet, nunc in feugiat lacinia, est mauris
-ultrices quam, ut consequat augue justo at urna.
+Rather than analyzing lesions individually, clinicians frequently assess lesions to biopsy by considering them versus the rest of the lesions on the body. An odd lesion among many similar lesions is thought not to be as dangerous as an odd lesion on a patient whose other lesions are more benign. This is known in dermatology as the ugly duckling sign and it is frequently used to diagnose melanoma, especially in patients with many atypical nevi. Until now, it has not been possible to explore the ugly duckling concept with machine learning due to the lack of large datasets with multiple labeled images per patient. We present the first dataset of melanoma and comparative benign lesions within the same patient to support new machine learning challenges, and further pave the trail of artificial intelligence in the diagnosing of skin lesions, with the hope of someday deploying AI in clinics to assist dermatologists throughout the world. Images were collected from Memorial Sloan Kettering, Melanoma Institute Australia, University of Queensland, Medical University of Vienna, University of Athens, and University of Barcelona.
