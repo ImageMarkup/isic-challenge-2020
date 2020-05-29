@@ -5,6 +5,24 @@ subtitle: Skin Lesion Analysis Towards Melanoma Detection
 hide_footer: true
 ---
 
+<div style="background: #188eac;color: #fff;margin: 0 auto;padding: 10px;width:60%;">
+<div style="padding:20px;display:flex;align-items:center;">
+<p style="font-weight:bold">Notify me about updates to the challenge!</p>
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup" style="margin-left:10px;">
+<form action="https://isic-archive.us17.list-manage.com/subscribe/post?u=13fc67ccb01003e18f7ce4c10&amp;id=aa0e7aa1b1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_13fc67ccb01003e18f7ce4c10_aa0e7aa1b1" tabindex="-1" value=""></div>
+    <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+</div>
+</div>
+<!--End mc_embed_signup-->
+
 # SIIM-ISIC Melanoma Classification Challenge
 
 The dataset contains 33,126 dermoscopic training images of unique benign and malignant skin lesions from over 2,000 patients. Each image is associated with one of these individuals using a unique patient identifier. All malignant diagnoses have been confirmed via histopathology, and benign diagnoses have been confirmed using either expert agreement, longitudinal follow-up, or histopathology. A thorough publication describing all features of this dataset is forthcoming. The dataset can be accessed at: [https://www.kaggle.com/c/siim-isic-melanoma-classification/data](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
