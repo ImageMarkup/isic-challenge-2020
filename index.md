@@ -23,7 +23,7 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
 - Peter Soyer
 - Allan Halpern
 - Pascale Guitera
-·          
+          
 ## Computer Vision Chairs
 - [Noel C. F. Codella](https://twitter.com/NoelCodella), Ph.D. 
  
