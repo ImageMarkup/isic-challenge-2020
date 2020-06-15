@@ -37,24 +37,31 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
 - George Shih
 - Steve Langer
 - Anna Zawacki
+
 ### Memorial Sloan Kettering Cancer Center:
 - Jochen Weber
 - Nick Kurtansky
 - Allan Halpern
 - Steve Dusza
+
 ### Hospital Clinic, Barcelona:
 - Josep Malvehy
 - Marc Combalia
+
 ### Medical University of Vienna
 - Harald Kittler
 - Philipp Tschandl
+
 ### Emory
 - David Gutman
+
 ### The University of Queensland
 - Peter Soyer
 - Brigid Betz-Stablein
+
 ### Melanoma Institute Australia and Sydney Melanoma Diagnostic Center
 - Pascale Guitera
+
 ### University of Athens
 - Kontantinos Lioprys
 - Alexander Stratigos
