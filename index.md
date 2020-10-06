@@ -42,6 +42,14 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
       <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_GroundTruth.csv">Download metadata (2MB)</a>
       <br>
       33,126 metadata entries of patient ID, sex, age, and general anatomic site.
+      <br>
+      <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_GroundTruth_v2.csv">Download metadata v2 (2MB)</a>
+      <br>
+      33,126 metadata entries of patient ID, lesion ID, sex, age, and general anatomic site.
+      <br>
+      <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_Duplicates.csv">Download duplicate image list (2MB)</a>
+      <br>
+      List of 425 duplicates.
     </td>
     <td><a class="track-outbound" href=
         "https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_GroundTruth.csv">
