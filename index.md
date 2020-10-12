@@ -73,9 +73,9 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
 To comply with the attribution requirements of the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/), the aggregate "ISIC 2020" data must be cited as: 
  
 <blockquote>
-  <p>The ISIC 2020 Challenge Dataset <a href="https://doi.org/10.34970/2020-ds01"
+  <p>International Skin Imaging Collaboration. SIIM-ISIC 2020 Challenge Dataset. <i>International Skin Imaging Collaboration</i> <a href="https://doi.org/10.34970/2020-ds01"
                                         rel="noopener" target="_blank">https://doi.org/10.34970/2020-ds01</a>
-    (c) by ISDIS, 2020</p>
+    (2020).</p>
 
   <p>Creative Commons Attribution-Non Commercial 4.0 International License.</p>
 
