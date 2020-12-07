@@ -54,11 +54,24 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
     <td><a class="track-outbound" href=
         "https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_GroundTruth.csv">
       Download (2MB)</a><br>
-      33,126entries of gold standard lesion diagnoses.
+      33,126 entries of gold standard lesion diagnoses.
     </td>
-    <td colspan="2">
-      Accessible on the <a href="https://www.kaggle.com/c/siim-isic-melanoma-classification/overview">Kaggle competition
-      page</a>.
+    <td>
+      <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Test_Dicom.zip">Download DICOM (15.3GB)</a>
+      <br>
+      10,982 DICOM images with embedded metadata.
+      <br>
+      <hr>
+      <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Test_JPEG.zip">Download JPEG (6.7GB)</a>
+      <br>
+      10,982 JPEG images
+      <br>
+      <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Test_Metadata.csv">Download metadata (458KB)</a>
+      <br>
+      10,982 metadata entries of patient ID, sex, age, and general anatomic site.
+    </td>
+    <td>
+      Not Available
     </td>
     <td>
       <a target="_blank" rel="noopener" href=
