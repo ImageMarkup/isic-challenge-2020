@@ -107,20 +107,19 @@ To comply with the attribution requirements of the [CC-BY-NC license](https://cr
 
 
 When referencing this dataset in your own manuscripts and publications, please use the 
-following full citation. Please note this is a preprint and has not undergone peer review.
-It is being prepared for submission and if accepted to a peer reviewed journal the below
-will be updated accordingly:
+following full citation:
 
 <blockquote>
-  <p>[1] Veronica Rotemberg, Nicholas Kurtansky, Brigid Betz-Stablein,
-    Liam Caffery, Emmanouil Chousakos, Noel Codella, Marc Combalia, Stephen Dusza,
-    Pascale Guitera, David Gutman, Allan Halpern, Harald Kittler, Kivanc Kose, Steve
-    Langer, Konstantinos Lioprys, Josep Malvehy, Shenara Musthaq, Jabpani Nanda,
-    Ofer Reiter, George Shih, Alexander Stratigos, Philipp Tschandl, Jochen Weber,
-    H. Peter Soyer: "A Patient-Centric Dataset of Images and Metadata for
-    Identifying Melanomas Using Clinical Context", 2020; arXiv:2008.07360</p>
+  <p>[1] Rotemberg, V., Kurtansky, N., Betz-Stablein, B.,
+    Caffery, L., Chousakos, E., Codella, N., Combalia, M., Dusza, S.,
+    Guitera, P., Gutman, D., Halpern, A., Helba, B., Kittler, H., Kose, K., Langer, S.,
+    Lioprys, K., Malvehy, J., Musthaq, S., Nanda, J.,
+    Reiter, O., Shih, G., Stratigos, A., Tschandl, P., Weber, J. & Soyer, P.
+    A patient-centric dataset of images and metadata for
+    identifying melanomas using clinical context. Sci Data 8, 34 (2021). https://doi.org/10.1038/s41597-021-00815-z
+  </p>
 </blockquote>
-    
+
 
 # Organizers
 
