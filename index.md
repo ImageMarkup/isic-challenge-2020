@@ -34,6 +34,12 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
       <br>
       33,126 DICOM images with embedded metadata.
       <br>
+      <a href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Train_DICOM_corrected.zip">
+        Download DICOM Corrected* (23.0GB)
+      </a>
+      <br>
+      33,126 DICOM images with embedded metadata.
+      <br>
       <hr>
       <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Training_JPEG.zip">Download JPEG (23GB)</a>
       <br>
@@ -61,6 +67,12 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
       <br>
       10,982 DICOM images with embedded metadata.
       <br>
+      <a href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Test_DICOM_corrected.zip">
+        Download DICOM Corrected* (6.7GB)
+      </a>
+      <br>
+      10,982 DICOM images with embedded metadata.
+      <br>
       <hr>
       <a class="track-outbound" href="https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Test_JPEG.zip">Download JPEG (6.7GB)</a>
       <br>
@@ -80,6 +92,11 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
   </tr>
   </tbody>
 </table>
+
+<p>
+  *The newer version of the DICOM files are provided to avoid potential errors stemming from readers implementing a strict DICOM verification, as implemented in 
+  <a href="http://dclunie.com/dicom3tools/dciodvfy.html">http://dclunie.com/dicom3tools/dciodvfy.html</a>.
+</p>
  
 # Citing the 2020 dataset:
 
